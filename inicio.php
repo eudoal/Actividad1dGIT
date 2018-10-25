@@ -95,7 +95,7 @@
             <input type="text" class="form-R" placeholder="R" name="R">
             <input type="text" class="form-G" placeholder="G" name="G">
             <input type="text" class="form-B" placeholder="B" name="B">
-			<input type="text" class="form-f" placeholder="f" name="f">
+			<input type="text" class="form-f" placeholder="f" name="e">
 			<input type="text" class="form-p" placeholder="p" name="p">
 			<input type="text" class="form-q" placeholder="q" name="q">
             <input type="submit" class="boton-Enviar" value="Enviar">
