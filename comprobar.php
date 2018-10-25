@@ -38,6 +38,7 @@ if ($validacion == true) {
     $r = ($_POST['R']);
     $g = ($_POST['G']);
     $b = ($_POST['B']);
+	$b = ($_POST['f']);
 
     // convierte a hexadecimal
     $color = sprintf("#%02x%02x%02x", $r, $g, $b);
